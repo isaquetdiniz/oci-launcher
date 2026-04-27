@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python launch.py)",
+      "Bash(echo \"Exit code: $?\")"
+    ]
+  }
+}
